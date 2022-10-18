@@ -1,8 +1,8 @@
 ## Olá, eu sou o Leonardo e estou apenas começando na programação 😉
 
 <div align = "left">
-<img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardollima&show_icons=true&theme=bear&count_private=true"/>
-<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=leonardollima&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardollima&show_icons=true&theme=bear&count_private=true"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=leonardollima&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
 
